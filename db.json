@@ -1,0 +1,56 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005aaaabcdfhaaaabaa",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-03-29T03:48:29.008Z"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not postingaaaaaabb",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-03-29T03:48:51.786Z"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 050",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-03-29T02:07:14.959Z"
+    },
+    {
+      "id": 4,
+      "message": " workstation 666 malita",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "Bisho"
+    },
+    {
+      "id": 6,
+      "message": "Melito SIUUUUUxddddddddda",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-03-29T04:10:32.534Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
